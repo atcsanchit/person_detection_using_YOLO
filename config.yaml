@@ -1,0 +1,8 @@
+path: C:\Users\USER\Documents\python\assignment
+train: data\image
+val: data\image
+
+#classes
+names:
+  0: human
+  1: messi
